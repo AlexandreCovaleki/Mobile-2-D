@@ -59,3 +59,19 @@
 .descrição_texto{
     font-size: 14px;
 }
+
+.botões_item{
+    margin: 0 0.5em;
+}
+
+.botões_ancora{
+    background-color: var(--laranja);
+    padding: 1em 2.2em;
+    font-weight: 700;
+    color: var(--branco);
+    text-decoration: none;
+}
+
+.estrelinhas{
+    padding: 0.5em 0.5em 0.5em 0;
+}
